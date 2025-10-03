@@ -1,0 +1,2 @@
+Assets are modified by authorized parties or only in authorized ways
+	Modifications in this context depend on the asset; this includes writing, changing hardware, changing status, deleting and creating

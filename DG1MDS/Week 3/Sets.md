@@ -34,3 +34,18 @@ Subsets
 	{} ⊆ T
 	{1} ⊄ {} (Not a subset as there cant be a 1 in an emtpy set)
 	Any set is a subset of itself 
+
+Set Builder Notation
+	Enumeration:
+		Let B be {1,2,3,4,5}
+	Builder Notation 
+		{X ∈ B | x >0 ∧ x < 6 }
+
+
+Set Operators
+	Union U
+		Can be expressed as { x | x ∈ A ∨ x ∈ B } A OR B
+	Intersection ∩
+		Can be expressed as { x | x ∈ A ∧ x ∈ B } A AND B
+	Difference \
+		Can be expressed as { x | x ∈ A ∧ x ∉ B } A NOT B

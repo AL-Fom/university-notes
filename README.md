@@ -1,3 +1,3 @@
 # university-notes
 
-Hello haiiii 
+notes taken for each week during and after lectures

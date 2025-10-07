@@ -40,7 +40,16 @@ Set Builder Notation
 		Let B be {1,2,3,4,5}
 	Builder Notation 
 		{X ∈ B | x >0 ∧ x < 6 }
+		Example:
+			{X + 1 | x ∈ {1,2,3} ∧ x is odd}
+			Truth Table
 
+| x ∈ {1,2,3} | x is odd | x + 1 |
+| ----------- | -------- | ----- |
+| 1           | T        | 2     |
+| 2           | F        | N/A   |
+| 3           | T        | 4     |
+			So the set is {2,4}
 
 Set Operators
 	Union U
@@ -49,3 +58,4 @@ Set Operators
 		Can be expressed as { x | x ∈ A ∧ x ∈ B } A AND B
 	Difference \
 		Can be expressed as { x | x ∈ A ∧ x ∉ B } A NOT B
+		THIS but NOT THAT

@@ -1,4 +1,3 @@
-∧∨
 
 | p ∧ q ⟺  q ∧ p                 | p ∨ q ⟺ q ∨ p                  | Commutative             |
 | ------------------------------ | ------------------------------ | ----------------------- |
@@ -8,7 +7,7 @@
 | p ∧ True ⟺ p                   | p ∨ False ⟺ p                  | Identity                |
 | p ∧ !p ⟺ False                 | p ∨ !p ⟺True                   | Negation                |
 | p ∧ False ⟺ False              | p ∨ True ⟺ True                | Domination              |
-| p ∨ (p  q) ⟺ p                 | p ∨ (pq) ⟺ p                   | Absorption              |
+| p ∨ (p ∧ q) ⟺ p                | p ∨ (p ∧ q) ⟺ p                | Absorption              |
 | !(p ∧ q) ⟺ (!p)∨(!q)           | !(p ∨ q) ⟺ (!p)  (!q)          | De Morgans              |
 |                                | !(!p) ⟺ p                      | Involution              |
 |                                | (p ⇒ q) ⟺ (!p) ∨ q             | Conditional Equivalence |

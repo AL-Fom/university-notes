@@ -8,11 +8,8 @@ Encryption (Encoding, enciphering) - the process of scrambling a message so that
 Decryption (Decoding, deciphering) - Reverse 
 
 Plaintext - Original message
-
 Ciphertext - The encrypted message
-
 Key - device used to influence the way in which encryption and decryption are carried out
-
 Cryptosystem (Cipher) - System for encryption and decryption
 
 

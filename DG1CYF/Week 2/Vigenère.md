@@ -1,4 +1,4 @@
-Step 1 choose word
+Step 1 choose word for example
 	
 Step 2 partition plaintext
 	n-symbol string chosen as key eg. 'Aston' (So the plaintext being split is as long as the keyword)
@@ -7,4 +7,3 @@ Step 2 partition plaintext
 Step 4
 	then do plaintext mod cipher 
 
-![[V Cipher example.png]]

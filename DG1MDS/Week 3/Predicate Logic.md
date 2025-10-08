@@ -9,15 +9,14 @@ Predicate logic works with the following
 	12 -5 0 3.141 ... (Term Values ℤ)
 	x y z  (Term Variables)
 	P Q R (Predicate Variables)
-	
-	Each Variable is restricted to a set
-	For example playsThe{x,y} or P{x,y}
-	x ∈ People
-	y ∈ Instruments
+		Each Variable is restricted to a set
+		For example playsThe{x,y} or P{x,y}
+		x ∈ People
+		y ∈ Instruments
 
 A predicate can contain any of the above 
 	such as P(V$_1$, V$_2$,..., V$_n$) this predicate has arity of n
-	Ax example would be IsEdible(x) where X can be cake or glass (True or False)
+	Ax example would be IsEdible(x) where "x" can be cake or glass (True or False)
 
 The average predicate will look like:
 	P(y) "y is prime" such that 

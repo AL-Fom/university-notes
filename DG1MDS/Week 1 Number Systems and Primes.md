@@ -43,3 +43,16 @@ Binary Fraction to Decimal
 | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 | 1/256 |
 | --- | --- | --- | ---- | ---- | ---- | ----- | ----- |
 |     |     |     |      |      |      |       |       |
+
+
+# Prime Numbers
+Whole numbers
+Greater than 1
+Divisible by 1 and itself
+
+Why important?
+	They are building blocks
+	Data security
+
+to find a prime you do $\sqrt{num}$
+divide the num by all known primes that are less than the answer above

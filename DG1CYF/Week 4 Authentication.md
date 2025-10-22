@@ -6,4 +6,3 @@ The mechanisms can be any of the following:
 	User has
 	What the user is
 	Where the user is
-	

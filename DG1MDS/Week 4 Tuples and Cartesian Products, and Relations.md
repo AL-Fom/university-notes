@@ -20,6 +20,7 @@ then its 1,1 2,2 3,3
 
 
 # Relations
+![[Pasted image 20251110015049.png]]
 Reflexivity 
 	(∀x ∈ A) x R x
 	All members of set a relates to itself 
@@ -37,3 +38,5 @@ Transitivity
 	If A relates to Y, and Y relates Z, then X relates to Z kind of like skipping
 	Example of the set
 	{x,y,z} the relation {(x,y), (y,z), (x,z)}
+
+![[Pasted image 20251110015001.png]]

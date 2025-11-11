@@ -19,7 +19,7 @@ Keyed transposition ciphers divide the plaintext into groups of predetermined si
 	Columnar 
 
 
-Rail Fence Encrypting
+## Rail Fence Encrypting
 Take phrase, write the plain text on n rows going down across up across down, read the rows such that it looks like this
 
 HLORL          ->     HLORLEWOD
@@ -36,5 +36,5 @@ tada
 
 
 
-Columnar Transposition 
+## Columnar Transposition 
 ![[Pasted image 20251014004034.png]]

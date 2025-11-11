@@ -19,7 +19,7 @@ Modular arithmetic - When answer to a calculation must be in range 0 to m-1, whe
 	Result = 7 (Counting from 0 after 25) 
 
 
-# V Cipher
+# Vigenère Cipher
 Vigenère cipher - Encryption alphabetic text using a series of interwoven shift ciphers, based on letters of a keyword
 
 1. Choose a key e.g "Aston" (Numerical value of each letters is (0, 18, 19, 14, 13))
